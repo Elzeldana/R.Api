@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\HranaApi\HranaLibrary\bin\Debug\HranaLibrary.dll
+C:\Users\user\Desktop\HranaApi\HranaLibrary\bin\Debug\HranaLibrary.pdb
+C:\Users\user\Desktop\HranaApi\HranaLibrary\bin\Debug\Dapper.dll
+C:\Users\user\Desktop\HranaApi\HranaLibrary\bin\Debug\log4net.dll
+C:\Users\user\Desktop\HranaApi\HranaLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\HranaApi\HranaLibrary\bin\Debug\Dapper.xml
+C:\Users\user\Desktop\HranaApi\HranaLibrary\bin\Debug\log4net.xml
+C:\Users\user\Desktop\HranaApi\HranaLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\HranaApi\HranaLibrary\obj\Debug\HranaLibrary.csprojAssemblyReference.cache
+C:\Users\user\Desktop\HranaApi\HranaLibrary\obj\Debug\HranaLibrary.csproj.CopyComplete
+C:\Users\user\Desktop\HranaApi\HranaLibrary\obj\Debug\HranaLibrary.dll
+C:\Users\user\Desktop\HranaApi\HranaLibrary\obj\Debug\HranaLibrary.pdb
